@@ -33,10 +33,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- <!--- <img align="left" alt="Krfuj's GitHub Stats" src="https://github-readme-stats-git-master.krfuj.vercel.app
-/api?username=krfuj&show_icons=true&hide_border=true" /> --->
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats-git-master.krfuj.vercel.app/api?username=krfuj&show_icons=true&theme=dark&title_color=400080&text_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" alt="krfuj" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-git-master.krfuj.vercel.app/api?username=krfuj&show_icons=true&theme=dark&title_color=00ffd2&text_color=FF8C00&bg_color=0a0047&hide_border=true&locale=en" alt="krfuj" /></p>
 
 </details>
 
