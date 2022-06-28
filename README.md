@@ -3,12 +3,12 @@
 
 ## I'm a Chemistry major who decided to become a self-taught Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute to my first Open Source project
+- 🌱 I’m currently learning MERN 🤣
+- 👯 I’m looking to collaborate in projects
+- 🥅 2023 Goals: Contribute to my first Open Source project
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... presleyingolo@gmail.com
+- 📫 How to reach me: ... https://sakwa.co.ke
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Superman didn't always fly.
 
