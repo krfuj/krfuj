@@ -1,9 +1,12 @@
 ### Hi there I'm Presley👋
+
+[![wakatime](https://wakatime.com/badge/user/fe941661-b36d-4f49-93cc-4c3dc178fe15.svg)](https://wakatime.com/@fe941661-b36d-4f49-93cc-4c3dc178fe15)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/presley?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Chemistry major who decided to become a self-taught Developer!!
 
-- 🌱 I’m currently learning MERN 🤣
+- 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate in projects
 - 🥅 2023 Goals: Contribute to my first Open Source project
 - 🤔 I’m looking for help with ... React
@@ -13,9 +16,6 @@
 - ⚡ Fun fact: ... Superman didn't always fly.
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
