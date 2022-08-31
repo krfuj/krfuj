@@ -4,11 +4,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/presley?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Chemistry major who decided to become a self-taught Developer!!
+## I'm a Chemistry major who decided to become a Developer!!
 
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate in projects
-- 🥅 2023 Goals: Contribute to my first Open Source project
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://sakwa.co.ke
