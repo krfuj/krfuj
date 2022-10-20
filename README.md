@@ -4,11 +4,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/presley?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Chemistry major who decided to become a Developer!!
+## I'm a Python Developer!!
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate in projects
-- 🤔 I’m looking for help with ... React
+- 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://sakwa.co.ke
 - 😄 Pronouns: ... He/Him
