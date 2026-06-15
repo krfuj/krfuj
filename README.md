@@ -1,4 +1,4 @@
-### Hi there I'm Patrick👋
+### Hi there I'm Monique👋
 
 [![wakatime](https://wakatime.com/badge/user/fe941661-b36d-4f49-93cc-4c3dc178fe15.svg)](https://wakatime.com/@fe941661-b36d-4f49-93cc-4c3dc178fe15)
 
@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... She/her
 - ⚡ Fun fact: ... Superman didn't always fly.
 
 
