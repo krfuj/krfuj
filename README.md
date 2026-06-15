@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/fe941661-b36d-4f49-93cc-4c3dc178fe15.svg)](https://wakatime.com/@fe941661-b36d-4f49-93cc-4c3dc178fe15)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/presley?color=1DA1F2&logo=Twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/Monique?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Python Developer!!
 
